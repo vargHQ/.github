@@ -4,7 +4,8 @@
 We believe AI agents should be able to create videos as easily as they generate text.
 We give agents tools and they create videos at scale
 
-## Getting started```markdown
+## Getting started
+
 # varg
 
 **AI-native video SDK for agents and growth teams.**
