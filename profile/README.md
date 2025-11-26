@@ -1,12 +1,30 @@
-## Hi there 👋
+# Welcome to varg
 
-<!--
+**varg.ai** is an AI-native video SDK and tooling stack for agents and growth teams.
+We believe AI agents should be able to create videos as easily as they generate text.
+We give agents tools and they create videos at scale
 
-**Here are some ideas to get you started:**
+## Getting started```markdown
+# varg
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**AI-native video SDK for agents and growth teams.**
+
+We give AI agents the tools to create videos at scale — as easily as they generate text.
+
+## Install
+
+```bash
+npm i @vargai/sdk
+```
+
+Use it to generate and process media from your apps, agents, and workflows.
+
+## Repos
+
+- **[vargHQ/sdk](https://github.com/vargHQ/sdk)** — AI video & image toolkit
+- **[vargHQ/cli](https://github.com/vargHQ/cli)** — coming soon
+
+---
+
+**Questions?** → [hello@varg.ai](mailto:hello@varg.ai)
+```
