@@ -23,8 +23,7 @@ Use it to generate and process media from your apps, agents, and workflows.
 ## Repos
 
 - **[vargHQ/sdk](https://github.com/vargHQ/sdk)** — AI video & image toolkit
-- **[vargHQ/cli](https://github.com/vargHQ/cli-roadmap)** — coming soon
-
+- **[vargHQ/cli-roadmap](https://github.com/vargHQ/cli-roadmap)**
 ---
 
 **Questions?** → [hello@varg.ai](mailto:hello@varg.ai)
