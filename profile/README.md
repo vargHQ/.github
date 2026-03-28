@@ -5,7 +5,7 @@
 
   <p><strong>AI-native video creation for agents and growth teams.</strong></p>
 
-  <a href="https://x.com/vaboratory"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://x.com/vargaihq"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://docs.varg.ai"><img src="https://img.shields.io/badge/Docs-143D52?style=for-the-badge&logo=gitbook&logoColor=white" /></a>
 </div>
 
