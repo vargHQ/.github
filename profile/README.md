@@ -14,7 +14,7 @@
 ### Quick Start
 
 ```bash
-npm i vargai && vargai init
+npm i vargai ai && vargai init
 ```
 
 ```tsx
@@ -44,6 +44,23 @@ await render(video, { output: "hello.mp4" });
 ```
 
 ---
+
+Installing skills
+```bash
+# 1. Install the varg skill
+npx skills add vargHQ/skills
+
+# 2. Set your API key (get one free at app.varg.ai)
+export VARG_API_KEY=varg_live_xxx
+
+# 3. Create your first video
+claude "create a 10-second product video
+  for white sneakers, 9:16, UGC style,
+  with captions and background music"
+
+# That's it. Agent writes JSX, picks models,
+# renders in cloud, returns video URL.
+```
 
 
 ---
