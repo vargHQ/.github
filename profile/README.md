@@ -14,12 +14,12 @@
 ### Quick Start
 
 ```bash
-npm i vargai
+npm i vargai && vargai init
 ```
 
 ```tsx
 import { Render, Clip, Image, Video, render } from "vargai/react";
-import { fal } from "vargai/ai";
+import { varg } from "vargai/ai";
 
 const video = (
   <Render width={720} height={720}>
@@ -30,11 +30,11 @@ const video = (
           images: [
             Image({
               prompt: "a friendly robot waving hello, cartoon style",
-              model: fal.imageModel("flux-schnell"),
+              model: varg.imageModel("flux-schnell"),
             }),
           ],
         }}
-        model={fal.videoModel("wan-2.5")}
+        model={varg.videoModel("wan-2.5")}
       />
     </Clip>
   </Render>
@@ -45,24 +45,25 @@ await render(video, { output: "hello.mp4" });
 
 ---
 
-### Core
-
-- **[sdk](https://github.com/vargHQ/sdk)** -- TypeScript SDK with JSX video composition, CLI, and AI provider integrations
-- **[gateway](https://github.com/vargHQ/gateway)** -- Unified API at `api.varg.ai` -- one key for fal, ElevenLabs, Replicate, Higgsfield
-- **[render](https://github.com/vargHQ/render)** -- Video composition engine -- scene stitching with ffmpeg
-- **[py-sdk](https://github.com/vargHQ/py-sdk)** -- Python SDK for AI video generation
-
-### Templates & Skills
-
-- **[templates](https://github.com/vargHQ/templates)** -- Remotion-based video templates (talking head, slideshow, product showcase)
-- **[skills](https://github.com/vargHQ/skills)** -- Agent Skills for AI media generation (Claude Code, Cursor, OpenCode)
-
-### Platform
-
-- **[app](https://github.com/vargHQ/app)** -- Web dashboard with auth, billing, and AI chat agent
-- **[docs](https://github.com/vargHQ/docs)** -- Documentation site
-- **[sandbox](https://github.com/vargHQ/sandbox)** -- E2B sandbox for isolated agent execution
 
 ---
+
+### Core
+- **[sdk](https://github.com/vargHQ/sdk)** — TypeScript SDK with JSX video composition, CLI, and AI provider integrations
+- **[app](https://varg.ai/app)** — Claude Code for Video Ads. Web dashboard with auth, billing, and AI chat agent
+- **[docs](https://docs.varg.ai)** — Documentation
+- **[docs](https://github.com/vargHQ/docs)** -- Documentation Git
+
+### Templates & Skills
+- **[templates](https://github.com/vargHQ/templates)** — Remotion-based video templates (talking head, slideshow, product showcase)
+- **[skills](https://github.com/vargHQ/skills)** — Agent Skills for AI media generation (Claude Code, Cursor, OpenCode)
+
+---
+
+**Questions?** [Discord](https://discord.com/invite/VAecJay7R9)
+
+P.S. Best contributors get swag from varg.ai :)
+
+
 
 **Questions?** [hello@varg.ai](mailto:hello@varg.ai)
