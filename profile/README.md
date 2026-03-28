@@ -69,7 +69,7 @@ claude "create a 10-second product video
 - **[sdk](https://github.com/vargHQ/sdk)** — TypeScript SDK with JSX video composition, CLI, and AI provider integrations
 - **[app](https://varg.ai/app)** — Claude Code for Video Ads. Web dashboard with auth, billing, and AI chat agent
 - **[docs](https://docs.varg.ai)** — Documentation
-- **[docs](https://github.com/vargHQ/docs)** -- Documentation Git
+- **[docs repo](https://github.com/vargHQ/docs)** -- Documentation repo
 
 ### Templates & Skills
 - **[templates](https://github.com/vargHQ/templates)** — Remotion-based video templates (talking head, slideshow, product showcase)
