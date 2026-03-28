@@ -80,7 +80,3 @@ claude "create a 10-second product video
 **Questions?** [Discord](https://discord.com/invite/VAecJay7R9)
 
 P.S. Best contributors get swag from varg.ai :)
-
-
-
-**Questions?** [hello@varg.ai](mailto:hello@varg.ai)
