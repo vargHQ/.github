@@ -68,6 +68,8 @@ claude "create a 10-second product video
 ### Core
 - **[sdk](https://github.com/vargHQ/sdk)** — TypeScript SDK with JSX video composition, CLI, and AI provider integrations
 - **[app](https://varg.ai/app)** — Claude Code for Video Ads. Web dashboard with auth, billing, and AI chat agent
+- **[skills](https://github.com/vargHQ/skills)** - AI agent skills for video, image, speech & music generation. Works with Claude Code, Cursor, Windsurf, OpenCode, OpenClaw
+- **[seedance 2.0 tutorial] (https://github.com/vargHQ/seedance-sizzle-tutorial) - Build a cinematic sizzle reel with Seedance 2.0 AI video generation + Remotion
 - **[docs](https://docs.varg.ai)** — Documentation
 - **[docs repo](https://github.com/vargHQ/docs)** -- Documentation repo
 
